@@ -1,14 +1,14 @@
 Analysis of respiratory virus infections in Canada using `SAS` and `saspy`.
 
-# Included Virus
-- `ADENO`: adeno virus
-- `CORON`: human coronaviruses
-- `ENTERORHINO`: entero rhinovirus
-- `HMPV`: human metapneumovirus
-- `INFA`: influenza A
-- `INFB`: influenza B
-- `RSV`: respiratory syncitial virus
-- `PIV`: parainfluenzavirus
+# Included Viruses
+- `ADENO`: [Adenoviruses](https://www.cdc.gov/adenovirus/index.html)
+- `CORON`: [Human Coronaviruses](https://www.cdc.gov/coronavirus/general-information.html)
+- `ENTERORHINO`: [Entero Rhinovirus](https://www.cdc.gov/ncird/rhinoviruses-common-cold.html)
+- `HMPV`: [Human Metapneumovirus](https://www.cdc.gov/ncird/human-metapneumovirus.html)
+- `INFA`: [Influenza A](https://www.cdc.gov/flu/about/viruses/types.htm)
+- `INFB`: [Influenza B](https://www.cdc.gov/flu/about/viruses/types.htm)
+- `RSV`: [Respiratory Syncitial Virus](https://www.cdc.gov/rsv/index.html)
+- `PIV`: [Parainfluenzavirus](https://www.cdc.gov/parainfluenza/index.html)
 
 # Snippet
 ```sas
